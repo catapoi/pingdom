@@ -33,15 +33,7 @@
       </div>
     </div>
     
-    <!--div class="container">
-      <div class="row">
-        <div class="alert alert-primary" role="alert">
-          <h2>Overview</h2>
-        </div>
-      </div>
-    </div-->
-
-    <table class="table table-inverse">
+<table class="table table-inverse">
   <thead>
     <tr>
       <th>#</th>
@@ -115,11 +107,6 @@ var myChart = new Chart(ctx, {
 });
 </script>
 </div>
-
-
-
-
-
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
