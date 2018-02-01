@@ -19,6 +19,9 @@ Monitoring platform for Pingdom checks.
 
 		SELECT  host, region, status, value FROM a_measurement			
   
+3) Add communication library for PHP -> InfluxDB
+	https://docs.influxdata.com/influxdb/v0.8/client_libraries/php/ 
+		
   
   Project started: 01.02.2018
   Location:        Bucuresti, Berceni
